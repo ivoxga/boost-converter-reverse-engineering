@@ -117,6 +117,10 @@ The change between the two modes is smooth and automatic, with no extra switchin
 
 ## The reverse engineering process
 
+<p align="center">
+  <img src="images/board.png">
+</p>
+
 1. Photograph the board and identify every component, noting its value and the reference printed on the PCB.
 2. Remove the components one by one while mapping where the copper traces go. A multimeter in continuity mode confirmed the connections that could not be seen.
 3. Redraw the schematic in LTspice, organized in functional blocks (input, boost, switching, control, output and regulation).
