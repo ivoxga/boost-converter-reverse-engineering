@@ -1,7 +1,5 @@
 # 250 W DC-DC Boost Converter: Reverse Engineering
 
-![The boost converter module that was analysed](images/board_original.png)
-
 <p align="center">
   <img src="images/board_original.png" alt="The boost converter module that was analysed">
 </p>
