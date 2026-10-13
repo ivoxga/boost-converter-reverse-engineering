@@ -1,10 +1,12 @@
 # 250 W DC-DC Boost Converter: Reverse Engineering
 
-![The boost converter module that was analysed](images/board-complete.jpg)
+![The boost converter module that was analysed](images/board_original.png)
 
 *The module analysed: a commercial 250 W, non-isolated DC-DC **boost** (step-up) converter with adjustable output voltage and adjustable current limit. It is built around a **TL494C** PWM controller, on an aluminium PCB.*
 
 In this project I took this module apart to find out how it works: I desoldered it, traced the copper, identified every component, redrew the schematic in **LTspice**, simulated it and tested it on the bench. This README is mostly about **what I learned**, and above all about **how a boost converter works**.
+
+> Project developed for the course **Power Electronics**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **3rd year**.
 
 ---
 
