@@ -1,0 +1,17 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\tiago\Desktop\Simulação\Simulação.net
+Start Time: Fri May 29 20:50:22 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 87.247 seconds.
+
+Files loaded:
+C:\Users\tiago\Desktop\Simulação\Simulação.net
+C:\Users\tiago\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\tiago\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\tiago\Documents\LTspice\lib\sub\FQD50N06.lib
+
